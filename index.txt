@@ -1,7 +1,9 @@
 Travaux pratiques Git, GitHub 
 Objectif : Creer un projet versionne localement
 
-Enonce :
-1 - Creer un dossier mon-projet-git
-2 - Creer un fichier index.txt avec une phrase
-3 - Initialise Git et fais un premier commit
+Enonce : 
+1 - Creer un dossier mon-projet-git 
+2 - Creer un fichier index.txt avec une phrase 
+3 - Initialise Git et fais un premier commit 
+--------------------------------------------
+4 - Ajout d'une ligne dans index.txt
